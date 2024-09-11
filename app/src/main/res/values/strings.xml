@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleNewsReader</string>
+    <string-array name="news_categories">
+        <item>비즈니스</item>
+        <item>엔터테인먼트</item>
+        <item>일반</item>
+        <item>건강</item>
+        <item>과학</item>
+        <item>스포츠</item>
+        <item>기술</item>
+    </string-array>
+</resources>

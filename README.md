@@ -25,6 +25,9 @@
 - 개발 막바지에 테스트를 하려고 여러번 시도하다가, 그 날은 아예 목록들이 출력이 안된적이 있었다. 이유는 NewsApi가 무료 사용자에게 제공하는게 하루 50회였기 때문이다.
 - API 문서를 제대로 안찾아본 내 잘못이지만...
 - 그래도 덕분에, 예외처리도 해보고 다양한 시도들 끝에 오류도 알아내서 배우는데 더욱 도움이 됐다.
-- ![image](https://github.com/user-attachments/assets/d140cef8-3c3b-4a03-8117-2611140906dd)
+![image](https://github.com/user-attachments/assets/d140cef8-3c3b-4a03-8117-2611140906dd)
+- JAVA랑 비슷한가 싶으면서도 다른부분들이 꽤 많아서 어렵지만 재미도 있었다.
 
 ## 실행 장면
+![실행화면1](https://github.com/user-attachments/assets/d31ecb68-3770-4eba-b76b-09acace7ad82)
+![실행화면2](https://github.com/user-attachments/assets/f33ac2f6-cdde-4833-b44c-f386b2b7eafa)

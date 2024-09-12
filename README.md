@@ -10,6 +10,7 @@
 
 ## 개발환경
 - **os**: ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- **Language**: ![코틀린_축소](https://github.com/user-attachments/assets/33d023b9-146e-42c4-8cc5-2d8e78d8a122)
-- **Tool**: ![안드로이드_축소](https://github.com/user-attachments/assets/6c9aada8-ad15-4611-9caa-f7003ff68527)
+- **Language**: ![코틀린_축소2](https://github.com/user-attachments/assets/b4724c9c-eccb-4d13-a3d6-d19513476f2d)
+- **Tool**: ![안드로이드_축소2](https://github.com/user-attachments/assets/e12ebcc3-0187-43e3-a792-02d0d4ffc7ca)
+- **API**: ![뉴스_API_축소](https://github.com/user-attachments/assets/189dd78d-d04d-4843-aafc-0aa1fed89c24)
 

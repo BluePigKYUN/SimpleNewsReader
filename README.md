@@ -1,1 +1,3 @@
-# SimpleNewsReader
+# 간단한 뉴스 어플
+
+### ㅎㅎ

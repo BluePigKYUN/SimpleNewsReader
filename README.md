@@ -27,6 +27,7 @@
 - 그래도 덕분에, 예외처리도 해보고 다양한 시도들 끝에 오류도 알아내서 배우는데 더욱 도움이 됐다.
 ![image](https://github.com/user-attachments/assets/d140cef8-3c3b-4a03-8117-2611140906dd)
 - JAVA랑 비슷한가 싶으면서도 다른부분들이 꽤 많아서 어렵지만 재미도 있었다.
+- 이번에는 API로 시도했지만 다음번에도 비슷한 구현을 한다면 RSS로 구현해보려고 한다.
 
 ## 실행 장면
 ![실행화면1](https://github.com/user-attachments/assets/d31ecb68-3770-4eba-b76b-09acace7ad82)

@@ -9,7 +9,7 @@ interface NewsApiService {
     @GET("v2/top-headlines")
     fun getTopHeadlines(
         @Query("category") category: String,
-        @Query("apiKey") apiKey: String = "9afd475f6ef14406b2f22fd31ea03acb",
+        @Query("apiKey") apiKey: String = "API키",
         @Query("country") country: String = "kr"
     ): Call<NewsResponse>
 

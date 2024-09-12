@@ -9,5 +9,7 @@
 ### 2024-08
 
 ## 개발환경
-- **os** ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- 
+- **os**: ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- **Language**: ![코틀린_축소](https://github.com/user-attachments/assets/33d023b9-146e-42c4-8cc5-2d8e78d8a122)
+- **Tool**: ![안드로이드_축소](https://github.com/user-attachments/assets/6c9aada8-ad15-4611-9caa-f7003ff68527)
+
